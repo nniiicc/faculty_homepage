@@ -20,3 +20,28 @@ exclude:
   - Gemfile.lock
   - LICENSE
 theme: jekyll-theme-cayman
+
+contributorBios:
+    groundh0g:
+      name:       Joseph Hall
+      alias:      groundh0g
+      image:      images/contributors/groundh0g.png
+      role:       Programmer / Writer
+      bio: > # brief description goes here
+        Joe lives with his wife and three daughters in Newnan, Georgia. Every
+        summer, Joe teaches high school students how to write games during an
+        intense weeklong course in North Carolina for Landry Academy. In his free
+        time, Joe dabbles in sketching, cartooning, and creating 3D models. When
+        you see his artistic creations, you’ll understand why he makes his living
+        as a programmer.
+      email:      hello@codetopia.com
+      website:    http://codetopia.com/
+      twitter:    groundh0g
+      facebook:   groundh0g
+      youtube:    groundh0g
+      instagram:  groundh0g72
+      #googleplus: groundh0g
+      github:     groundh0g
+      deviant:    groundh0g
+      linkedin:   groundh0g
+      pinterest:  groundh0g
