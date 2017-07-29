@@ -22,11 +22,12 @@ exclude:
 theme: jekyll-theme-cayman
 
 contributorBios:
-    groundh0g:
+authors: 
+    groundh0g:    
       name:       Joseph Hall
       alias:      groundh0g
       image:      images/contributors/groundh0g.png
-      role:       Programmer / Writer
+      role:       author, Programmer / Writer
       bio: > # brief description goes here
         Joe lives with his wife and three daughters in Newnan, Georgia. Every
         summer, Joe teaches high school students how to write games during an
