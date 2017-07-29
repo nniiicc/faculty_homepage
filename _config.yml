@@ -22,7 +22,7 @@ exclude:
 theme: jekyll-theme-cayman
 
 contributorBios:
-authors: 
+author: 
     groundh0g:    
       name:       Joseph Hall
       alias:      groundh0g
