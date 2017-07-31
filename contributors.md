@@ -3,6 +3,8 @@ layout: page
 title: Contributors
 ---
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCoJjVYAs1D2axc3kGsYYiHM4RXnug52fCOR4Ga3MLS-i-yQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 <div class="contributors">
 {% for author in site.jekyll-bootstrap4-boilerplate.contributorBios %}
     {% if author[1].showInList != false %}
