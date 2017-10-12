@@ -5,7 +5,7 @@ title: Contributors
 
 
 <div class="contributors">
-{% for author in site.jekyll-bootstrap4-boilerplate.contributorBios %}
+{% for author in site.contributorBios %}
     {% if author[1].showInList != false %}
     <div class="contributor">
         <img src="{{ site.baseurl }}/assets/{{ author[1].image }}" alt="author[1].name" />
