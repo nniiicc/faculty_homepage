@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: CV
+misc: Something
 permalink: /cv/
 ---
 
