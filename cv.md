@@ -12,8 +12,8 @@ This is where my cv goes.
 </style>
 </head>
 <div id="wrapper">
-<object data="https://github.com/nniiicc/jekyll-bootstrap4-boilerplate/raw/gh-pages/assets/cv-01202018.pdf" width="100%" height="100%">
-<p>Your web browser doesn't have a PDF Plugin. Instead you can <a href="https://github.com/nniiicc/jekyll-bootstrap4-boilerplate/raw/gh-pages/assets/cv-01202018.pdf"> Click
+<object data="https://eprint.iacr.org/2015/675.pdf" width="100%" height="100%">
+<p>Your web browser doesn't have a PDF Plugin. Instead you can <a href="https://eprint.iacr.org/2015/675.pdf"> Click
 here to download the PDF</a></p>
 </object>
 </div>
