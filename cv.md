@@ -7,6 +7,9 @@ permalink: /cv/
 
 This is where my cv goes. 
 
+ <embed src="https://sumanbogati.github.io/sample.pdf" width="600px" height="500px" />
+
+
 <style type="text/css">
 #wrapper{ width:100%; float:left; height:100%; border:1px solid #000000;}
 </style>
