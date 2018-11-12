@@ -1,4 +1,4 @@
-baseurl:  ''
+baseurl: nicweber.info
 exclude: [README.md, deploy.sh]
 highlighter: rouge
 
