@@ -10,11 +10,9 @@ You can find open access links to all of my articles at:
 - [Google Scholar](https://scholar.google.com/citations?user=XOjXz98AAAAJ&hl=en)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/w/Weber:Nicholas_M=)
 
-<embed src="https://sumanbogati.github.io/sample.pdf" width="600px" height="500px" />
+My five most recent publications:
 
-%Look in html for where to place actual pdf of your CV
-
-{% bibliography %}
+1. 
 
 
-%Need a conditional statement here that does not print year if no publications... And figure out a way to space pubcs...
+<embed src="https://github.com/nniiicc/faculty_homepage/blob/gh-pages/cv/Weber-CV.pdf" width="600px" height="500px" />
