@@ -8,3 +8,4 @@ scholar:
   style:
   sort_by: year,month
   order: descending
+  use_raw_bibtex_entry:	true
