@@ -4,6 +4,8 @@ section: service
 title: "Teaching and Service"
 ---
 
+### {{ page.title }}
+
 ### Teaching
 
 #### University of Washington
