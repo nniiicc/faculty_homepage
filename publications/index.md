@@ -15,4 +15,4 @@ My five most recent publications:
 1. 
 
 
-<embed src="https://github.com/nniiicc/faculty_homepage/blob/gh-pages/cv/Weber-CV.pdf" width="600px" height="500px" />
+<embed src="https://raw.githubusercontent.com/nniiicc/faculty_homepage/gh-pages/publications/pdfs/Weber-CV.pdf" width="600px" height="500px" />
