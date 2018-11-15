@@ -14,5 +14,6 @@ My five most recent publications:
 
 1. 
 
+<object data="{{ post.gh-pages/publications/pdfs/Weber-CV.pdf}}" width="1000" height="1000" type='application/pdf'/>
 
 <embed src="https://raw.githubusercontent.com/nniiicc/faculty_homepage/gh-pages/publications/pdfs/Weber-CV.pdf" width="600px" height="500px" />
