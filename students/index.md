@@ -8,25 +8,26 @@ title: "Students, Postdocs, and Research Scientists"
 
 
 #### Current
-
 * [Chris Holstrom](https://ischool.uw.edu/people/phd/profile/cholstro) (iSchool) - Research Area: Knowledge Organization systems
+* [Claire McDonald]() (iSchool) - Research Area: Web Science
           
 
 #### Past
-* [Jackson Brown](http://jacksonmaxfield.github.io/) (iSchool) - Research Area: Civic Technology for Transparency. Current position: Developer at the Paul Allen Institute
+* [Jackson Brown](http://jacksonmaxfield.github.io/) (iSchool) - Research Area: Civic Technology. Current position: Data Engineer at the Paul Allen Institute for Cell Science Research
 * An Yan (iSchool) - Research Area: Open Data Analytics
 
 ### Thesis Committees
 
 #### Current
-* Wan Chen (iSchool) --- Knowledge Organization in Cultural Heritage
-* Hyerim Cho (iSchool) - Recommender Systems for "Cross-media"
+* Wan Chen (iSchool) - Knowledge Organization in Cultural Heritage
+* Meg Young (iSchool) - Data Governance 
+
 
 #### Past
-* [Sean Walker](https://newcollege.asu.edu/shawn-walker) (iSchool) - Research Area: Provenance in Social Media Data. Current Position: Assistant Professor - Arizona State University)
+* [Sean Walker](https://newcollege.asu.edu/shawn-walker) (iSchool) - Research Area: Provenance in Social Media Data. Current Position: Assistant Professor - Arizona State University
 * Chris Heaney (iSchool) - Research Area: Intellectual Property and the Preservation of Multi-Media. Current Position: Audio Preservation Engineer, Northeast Document Conservation Center.
+* Hyerim Cho (iSchool) - Recommender Systems for "Cross-media". Current Position: Assitant Professor - University of Missouri.
 
-
-### Research Scientists + Developers
-
-* Bree Norlander (TASCHA) --- Data Analytics, ICT4D
+### Research Scientists + Postdocs
+* Bree Norlander (TASCHA) - Research Expertise: Data Science
+* Bernadette (Bernie) Boscoe - Research Expertise: Data and Software Studies 
