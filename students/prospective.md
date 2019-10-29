@@ -13,8 +13,6 @@ My research group studies the Web as an intermediary to scientific knowledge pro
 We both study science and civics, but we also participate as practitioners, advocates, and organizers. We practice open-science by depositing our publications, data, software, and protocols in openly accessible repositories. We are committed to research that promotes an open, decentralized, and healthy web.
  
 If you are interested, please feel free to reach out to me directly at `nmweber[at]uw.edu`
-
-<p>
   
 **More about the PhD program at the UW iSchool:** 
 
