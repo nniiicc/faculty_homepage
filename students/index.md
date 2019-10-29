@@ -9,7 +9,7 @@ title: "Students, Postdocs, and Research Scientists"
 
 #### Current
 * [Chris Holstrom](https://ischool.uw.edu/people/phd/profile/cholstro) (iSchool) - Research Area: Knowledge Organization systems
-* [Claire McDonald]() (iSchool) - Research Area: Web Science
+* [Claire McDonald](https://ischool.uw.edu/people/phd/profile/cmcd276) (iSchool) - Research Area: Knowledge Organization and Internet Studies
           
 
 #### Past
@@ -21,7 +21,7 @@ title: "Students, Postdocs, and Research Scientists"
 #### Current
 * Wan Chen (iSchool) - Knowledge Organization in Cultural Heritage
 * Meg Young (iSchool) - Data Governance 
-
+* Luke Rogriguez (iSchool) - Data Privacy 
 
 #### Past
 * [Sean Walker](https://newcollege.asu.edu/shawn-walker) (iSchool) - Research Area: Provenance in Social Media Data. Current Position: Assistant Professor - Arizona State University
@@ -30,4 +30,4 @@ title: "Students, Postdocs, and Research Scientists"
 
 ### Research Scientists + Postdocs
 * Bree Norlander (TASCHA) - Research Expertise: Data Science
-* Bernadette (Bernie) Boscoe - Research Expertise: Data and Software Studies 
+* Bernadette (Bernie) Boscoe (Postdoc) - Research Expertise: Data and Software Studies 
