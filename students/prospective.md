@@ -4,7 +4,7 @@ section: students
 title: "Prospective Students"
 ---
 # Prospective Students
-I am currently recruiting PhD students that would like to do research in the field of Information Science, Science and Technology Studies (STS), and Social Computing. I mostly conduct mixed-methods and qualitative research. If you are interested in doing data science research I am likely not a good advisor for you. However, I regularly co-advise and sit on committees for students that work in the [DataLab](datalab.ischool.uw.edu). I would be happy to co-advise you in one of these roles. 
+I am currently recruiting PhD students that would like to do research in the field of Information Science, Science and Technology Studies (STS), and Social Computing. I mostly conduct mixed-methods and qualitative research. If you are interested in doing data science research I am likely not a good advisor for you. However, I regularly co-advise and sit on committees for students that work in the [DataLab](datalab.ischool.uw.edu). I would be happy to co-advise you in one of these roles.
 
 For 2020, I am looking for students to join my new research group. We are tentatively titled `Civics and Science on the Web`. Our description is as follows:
 
