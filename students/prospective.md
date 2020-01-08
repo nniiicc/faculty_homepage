@@ -8,9 +8,7 @@ I am currently recruiting PhD students that would like to do research in the fie
 
 For 2020, I am looking for students to join my new research group. We are tentatively titled `Civics and Science on the Web`. Our description is as follows:
 
-My research group studies the Web as an intermediary to scientific knowledge production and civic engagement. We are interested in how the web mediates, constrains, and affords new modes of cooperation. We ask research questions related to government transparency, data privacy, and pro-social modes of organizing. To answer these questions we build information systems, and study their implementation, use, and maintenance over time. 
-
-We both study science and civics, but we also participate as practitioners, advocates, and organizers. We practice open-science by depositing our publications, data, software, and protocols in openly accessible repositories. We are committed to research that promotes an open, decentralized, and healthy web.
+> My research group studies the Web as an intermediary to scientific knowledge production and civic engagement. We are interested in how the web mediates, constrains, and affords new modes of cooperation. We ask research questions related to government transparency, data privacy, and pro-social modes of organizing. To answer these questions we build information systems, and study their implementation, use, and maintenance over time. We both study science and civics, but we also participate as practitioners, advocates, and organizers. We practice open-science by depositing our publications, data, software, and protocols in openly accessible repositories. We are committed to research that promotes an open, decentralized, and healthy web.
  
 If you are interested, please feel free to reach out to me directly at `nmweber[at]uw.edu`
   
